@@ -26,6 +26,7 @@
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
 - [Claudio de Oliveira Almeida Junior](https://github.com/Kirizuro)
+- Justin256
 - Marlin dalPozzo (https://github.com/mdalpozzo)
 - Homercrates (https://github.com/homercrates)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
